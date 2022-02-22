@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britain reviv'd in a panegyrick to Their Most August Majesties, William and Mary : a pindarick poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29588</idno>
+            <idno type="STC">Wing B4803A</idno>
+            <idno type="STC">ESTC R4263</idno>
+            <idno type="EEBO-CITATION">13678633</idno>
+            <idno type="OCLC">ocm 13678633</idno>
+            <idno type="VID">101273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 836:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britain reviv'd in a panegyrick to Their Most August Majesties, William and Mary : a pindarick poem.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="panegyric_poem">
+            <pb n="1" facs="tcp:101273:1"/>
+            <head>
+               <hi>Britain Reviv'd:</hi> IN A PANEGYRICK TO THEIR Moſt Auguſt MAJESTIES, William and Mary.</head>
+            <head type="sub">A Pindarick Poem.</head>
+            <lg>
+               <head>I.</head>
+               <l>'TIS done; the weighty Buſineſs of the State,</l>
+               <l>That has ſo Long been in Profound Debate,</l>
+               <l>Is to Perfection brought:</l>
+               <l>Not by a Mortal thought,</l>
+               <l>For Heaven Inſpir'd 'em with a greater Sence</l>
+               <l>Of things Paſt, Preſent, and to Come,</l>
+               <l>Which their moſt prudent Souls did Influence,</l>
+               <l>To work our Safety, from the Threaten'd Domb.</l>
+               <l>O Hero's more than half Divine,</l>
+               <l>For Monarchy in its Decline</l>
+               <l>By Nature made the Antidotes.</l>
+               <l>Religious Champions, 'gainſt that Monſter Pope.</l>
+               <l>You th' firſt did us Convince</l>
+               <l>Of an Enſlaving Arbitrary Prince,</l>
+               <l>By whom, as by an <hi>Ignis fatuus</hi> led on,</l>
+               <l>We wander'd, till our Laws and Liberties were gon;</l>
+               <l>Until Religion did Conſumptive lie,</l>
+               <l>And weakn'd ſo, we were afraid ſhe'd die.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>So toſs'd and Ship-wreck'd in the Storms of Chance,</l>
+               <l>By a Popiſh Wind, which blew from <hi>France;</hi>
+               </l>
+               <l>She on the ravenous Billows tott'ring lay,</l>
+               <l>And too much truſting to the Romiſh See,</l>
+               <l>Had ſhe not quickly clapt the Helm a Lee,</l>
+               <l>She had by ventring thrown her ſelf away;</l>
+               <l>But growing Sea-ſick fell to Pray'r,</l>
+               <l>Imploring Heaven's Care.</l>
+               <pb n="2" facs="tcp:101273:2"/>
+               <l>At which the<note n="*" place="margin">The Nobility of <hi>England.</hi>
+                  </note> Higher Powers in Council ſate,</l>
+               <l>How to reduce this ſhatter'd State,</l>
+               <l>Of cicumvented Church,</l>
+               <l>By<note n="†" place="margin">The late King.</note> 
+                  <hi>Neptune</hi> left i'th' lurch,</l>
+               <l>To raffle with the<note n="‖" place="margin">Popery.</note> Boiſtrous Seas,</l>
+               <l>Our Ruine only could appeaſe;</l>
+               <l>For then the Sea and<note n="*" place="margin">Diſſenters.</note> Winds were knit together,</l>
+               <l>Where e're we ſail'd, we met with ſtormy weather.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>O diſmal time! when each audacious wave</l>
+               <l>Grew bigg, to ſee us ſink they would not ſave;</l>
+               <l>Roaring Deſtruction, roul'd to us apace,</l>
+               <l>And daſh'd our Non-reſiſtance in our face.</l>
+               <l>The<note n="†" place="margin">Diſſenters.</note> Winds too treacherous were, and hiſs'd aloud,</l>
+               <l>At the Obedience Paſſive of our Ship-wreck'd crowd.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Then our Heroick <hi>WILLIAM,</hi> all Divine,</l>
+               <l>With true Religious Valour did incline,</l>
+               <l>To our aſſiſtance; braves the Daring Main,</l>
+               <l>And brings us to our Calmer Days again.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Next, in the Rank of Heroes, let me bring,</l>
+               <l>Thoſe who Oppos'd our Popiſh King,</l>
+               <l>And dar'd in this ſtorm of State.</l>
+               <l>To turn about the Wheel of Fate,</l>
+               <l>And lead the way to Fortune.</l>
+               <l>Thoſe Nature ſure ſtampt in her largeſt mould,</l>
+               <l>With all Ingredients to be bravely bold;</l>
+               <l>Or ſome unuſual Vertue was from Heaven</l>
+               <l>To them at their Creation given,</l>
+               <l>That they ſo wiſely knew to look,</l>
+               <l>Into the Adamantine Book,</l>
+               <l>Of future Deſtiny.</l>
+               <l>And where they could eſpy,</l>
+               <l>Our approaching Miſery;</l>
+               <l>Blot out the Ill, and write the Fate anew,</l>
+               <l>And change a <hi>James,</hi> Great<note n="*" place="margin">To the King.</note> SIR! for You.</l>
+               <l>So by this brave Experiment we're taught,</l>
+               <l>Moſt Auguſt Prince, You were God's Second Thought.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>Then long bleſs'd King, may God, who crown'd Your Brow,</l>
+               <l>To Your bright Days all Happineſs allow.</l>
+               <l>And Your Illuſtrious QUEEN, Exalt yet higher,</l>
+               <l>Than Envy e're can reach, but to admire.</l>
+               <l>O happy we! ſince You've your Reign begun,</l>
+               <l>Our LAWS ſhall now in their Old Channel run;</l>
+               <l>LIBERTY no more ſhall fettered lye,</l>
+               <l>Nor PROPERTY with cloſe confinement dye;</l>
+               <l>But all our Hearts ſhall mutually agree,</l>
+               <l>Dread SIR! to Honour, Love, and Fight for Thee.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: Printed for <hi>R. Baldwin,</hi> near the Black-Bull in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
